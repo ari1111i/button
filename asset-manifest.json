@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//ari1111i.github.io/button/static/css/main.e6c13ad2.css",
+    "main.js": "/https//ari1111i.github.io/button/static/js/main.2efc2846.js",
+    "index.html": "/https//ari1111i.github.io/button/index.html",
+    "main.e6c13ad2.css.map": "/https//ari1111i.github.io/button/static/css/main.e6c13ad2.css.map",
+    "main.2efc2846.js.map": "/https//ari1111i.github.io/button/static/js/main.2efc2846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2efc2846.js"
+  ]
+}
